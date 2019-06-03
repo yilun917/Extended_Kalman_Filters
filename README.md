@@ -130,10 +130,13 @@ Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
 
 ## Result
-[this free course]: ./Tracking_Vehicle.PNG "Result Image" 
+[image_1]: ./Tracking_Vehicle.PNG "Result Image" 
 rmse_x: 0.1072
+
 rmse_x: 0.0932
+
 rmse_vx: 0.5064
+
 rmse_vy: 0.4702
 
 ## How to write a README
