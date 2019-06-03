@@ -130,7 +130,7 @@ Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
 
 ## Result
-[image_1]: ./Tracking_Vehicle.PNG "Result Image" 
+![image_1]: ./Tracking_Vehicle.PNG "Result Image" 
 rmse_x: 0.1072
 
 rmse_x: 0.0932
