@@ -77,7 +77,7 @@ using the following settings:
 
 ## Code Style
 
-Please (do your best to) stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
+Sticked to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
 
 ## Generating Additional Data
 
